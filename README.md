@@ -1,7 +1,12 @@
-<h1 align="center">Hello, my name is Bartek!</h1>
-<h3 align="center">Computer Science student at AGH Kraków, ambitious developer ready to discover his place in the world.</h3>
+<h1>Hello 👋, my name is Bartosz!</h1>
+<h3>Computer Science student 👨‍💻 at AGH Kraków 💚🖤❤️</h3>
 
-- 👨‍💻 My home site is [sajecki.ct8.pl](sajecki.ct8.pl)
+I am into creating ⚒️ my own stuff while exploring limits of the tools I use<br>
+Ready to discover my place in the world 🌎 and grow by learning new things ✨
+
+- 🌐 My home site is [sajecki.ct8.pl](sajecki.ct8.pl)
+- :star: My projects are focused around Javascript but I am currently learning new languages aswell
+- 🥂 Feel free to contact me if you would like to colaborate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
